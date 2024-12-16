@@ -18,6 +18,14 @@ O objetivo é criar uma página que evolua conforme meu aprendizado e mostre de 
 
 ---
 
+## 🖼️ Projeto Inicial  
+
+Abaixo está uma captura de tela da versão inicial do meu projeto. Este é apenas o começo, e a página será constantemente aprimorada à medida que eu aprendo novas tecnologias e implemento melhorias:  
+
+![Captura de tela 2024-12-15 230632](https://github.com/user-attachments/assets/ffbc59bd-6a8b-49d4-930e-e16bc65b6075)  
+
+---
+
 ## 🚧 Status do Projeto
 
 - [x] Estrutura inicial criada.
