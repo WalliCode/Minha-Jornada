@@ -1,0 +1,25 @@
+#corpo {
+    text-align: center;
+    background: rgb(161, 157, 157);
+}
+
+.tabela1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+h1{
+    font-weight: bold;
+}
+
+p{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imgfacu{
+    width: 50em;
+    border: yellowgreen solid 5px;
+}
