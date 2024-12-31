@@ -20,6 +20,9 @@ p{
 }
 
 .imgfacu{
-    width: 50em;
+    width: 35em;
+    height: 20em;
     border: yellowgreen solid 5px;
+    float: left;
+    margin-right: 7em;
 }
